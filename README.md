@@ -43,3 +43,30 @@ Overall, the Smart Blind Stick with Ultrasonic Sensor, Water Sensor, GSM Module,
 7.  Portability and Ease of Use: The Smart Blind Stick is designed to be lightweight, portable, and easy to handle. It can be folded or disassembled for convenient storage and transportation, allowing the user to carry it wherever they go.
     
 8.  Independence and Safety: By combining the functionalities mentioned above, the Smart Blind Stick aims to enhance the independence and safety of visually impaired individuals. It provides them with a reliable tool to navigate their surroundings, detect obstacles, avoid hazards, and communicate in case of emergencies.
+
+###     What are required for building it ?
+1. Arduino Nano :
+	Here I am using Arduino Nano with ATmega328P MCU.![Arduino Nano with ATmega328P MCU](//upload.wikimedia.org/wikipedia/commons/7/78/Arduino_nano.jpg)
+	
+## Technical specifications
+
+[![Arduino-nano-pinout.png](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Arduino-nano-pinout.png/500px-Arduino-nano-pinout.png)](https://en.wikipedia.org/wiki/File:Arduino-nano-pinout.png)
+
+-   [Microcontroller](https://en.wikipedia.org/wiki/Microcontroller "Microcontroller"):  [Microchip](https://en.wikipedia.org/wiki/Microchip_Technology "Microchip Technology")  [ATmega328P](https://en.wikipedia.org/wiki/ATmega328P "ATmega328P")[[4]](https://en.wikipedia.org/wiki/Arduino_Nano#cite_note-website-4)
+-   Operating voltage: 5  [volts](https://en.wikipedia.org/wiki/Volts "Volts")
+-   Input voltage: 5 to 20 volts
+-   Digital I/O pins: 14 (6 optional  [PWM](https://en.wikipedia.org/wiki/Pulse-width_modulation "Pulse-width modulation")  outputs)
+-   Analog input pins: 8
+-   [DC](https://en.wikipedia.org/wiki/Direct_current "Direct current")  per I/O pin: 40 mA
+-   DC for 3.3 V pin: 50 mA
+-   [Flash memory](https://en.wikipedia.org/wiki/Flash_memory "Flash memory"): 32 KB, of which 2 KB is used by  [bootloader](https://en.wikipedia.org/wiki/Booting#Boot-loader "Booting")
+-   [SRAM](https://en.wikipedia.org/wiki/Static_random-access_memory "Static random-access memory"): 2 KB
+-   [EEPROM](https://en.wikipedia.org/wiki/EEPROM "EEPROM"): 1 KB
+-   Clock speed: 16 [MHz](https://en.wikipedia.org/wiki/MHz "MHz")
+-   Length: 45 mm
+-   Width: 18 mm
+-   Mass: 7 g
+-   USB: Mini-USB Type-B  (https://en.wikipedia.org/wiki/Arduino_Nano#cite_note-5)
+-   ICSP Header: Yes
+-   DC Power Jack: No
+You can buy this Arduino Nano from [here](https://www.electronicscomp.com/nano-v3.0-development-board-clone-compatible-model).
