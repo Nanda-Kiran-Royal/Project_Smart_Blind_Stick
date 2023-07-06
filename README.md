@@ -85,3 +85,20 @@ Moving from theory to reality, an ultrasonic sensor requires two parts, both a  
 Basic Structure of Ultra Sonic Sensor
 You can get it [here](https://www.electronicscomp.com/cs100-ultrasonic-distance-measuring-sensor-module-hc-sr04).
 
+3. Water Sensor:
+  ![enter image description here](https://m.media-amazon.com/images/I/51HpEKfcDLL.jpg)
+### How Does a Water Level Sensor Work?
+
+The operation of the water level sensor is fairly simple.
+
+The power and sense traces form a variable resistor (much like a potentiometer) whose resistance varies based on how much they are exposed to water.
+
+![water level sensor working.gif](https://lastminuteengineers.b-cdn.net/wp-content/uploads/arduino/Water-Level-Sensor-Working.gif)
+
+This resistance varies inversely with the depth of immersion of the sensor in water:
+
+-   The more water the sensor is immersed in, the better the conductivity and the lower the resistance.
+-   The less water the sensor is immersed in, the poorer the conductivity and the higher the resistance.
+
+The sensor generates an output voltage proportional to the resistance; by measuring this voltage, the water level can be determined.
+
