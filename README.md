@@ -102,3 +102,13 @@ This resistance varies inversely with the depth of immersion of the sensor in wa
 
 The sensor generates an output voltage proportional to the resistance; by measuring this voltage, the water level can be determined.
 
+## Water Level Sensor Pinout
+
+The water level sensor is extremely simple to use and only requires three pins to connect.
+
+![water level sensor pinout](https://lastminuteengineers.b-cdn.net/wp-content/uploads/arduino/Water-Level-Sensor-Pinout.png)
+
+S (Signal)  is an analog output pin that will be connected to one of your Arduino’s analog inputs.
+
++ (VCC)  pin provides power to the sensor. It is recommended that the sensor be powered from 3.3V to 5V. Please keep in mind that the analog output will vary depending on the voltage supplied to the sensor.
+– (GND)  is the ground pin.
